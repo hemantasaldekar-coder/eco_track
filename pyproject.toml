@@ -13,4 +13,4 @@ dynamic = ["version"]
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourusername/eco_track"
+Homepage = "https://github.com/hemantasaldekar-coder/eco_track"
